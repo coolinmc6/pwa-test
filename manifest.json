@@ -9,7 +9,7 @@
 		}
 	],
 	"start_url": "/index.html",
-	"scope": "/",
+	"scope": "/pwa-test/",
 	"display": "standalone",
 	"orientation": "portrait-primary",
 	"background_color": "#fff",

@@ -1,4 +1,4 @@
-var version = 4;
+var version = 5;
 console.log('Version #' + version + ': App.js loaded');
 
 var deferredPrompt;

@@ -3,32 +3,32 @@
 	"short_name": "PWA Uno",
 	"icons": [
 		{
-			"src": "/images/cool-icon-128x128.png",
+			"src": "/pwa-test/images/cool-icon-128x128.png",
 			"type": "image/png",
 			"size": "128x128"
 		},
 		{
-			"src": "/images/cool-icon-144x144.png",
+			"src": "/pwa-test/images/cool-icon-144x144.png",
 			"type": "image/png",
 			"size": "144x144"
 		},
 		{
-			"src": "/images/cool-icon-152x152.png",
+			"src": "/pwa-test/images/cool-icon-152x152.png",
 			"type": "image/png",
 			"size": "152x152"
 		},
 		{
-			"src": "/images/cool-icon-192x192.png",
+			"src": "/pwa-test/images/cool-icon-192x192.png",
 			"type": "image/png",
 			"size": "192x192"
 		},
 		{
-			"src": "/images/cool-icon.png",
+			"src": "/pwa-test/images/cool-icon.png",
 			"type": "image/png",
 			"size": "256x256"
 		},
 		{
-			"src": "/images/cool-icon-512x512.png",
+			"src": "/pwa-test/images/cool-icon-512x512.png",
 			"type": "image/png",
 			"size": "512x512"
 		}

@@ -3,7 +3,7 @@ console.log('Version #' + version + ': App.js loaded');
 
 if('serviceWorker' in navigator) {
 	navigator.serviceWorker
-		.register('/sw.js', {scope: '/'}) // you can control the scope
+		.register('/pwa-test/sw.js', {scope: '/'}) // you can control the scope
 		.then(function() {
 			console.log('Service worker registered!')
 		})

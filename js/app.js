@@ -1,3 +1,5 @@
+console.log('App.js loaded');
+
 if('serviceWorker' in navigator) {
 	navigator.serviceWorker
 		.register('/sw.js', {}) // you can control the scope
